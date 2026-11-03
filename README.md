@@ -69,6 +69,20 @@ gcc -std=c11 -Wall -Wextra -pedantic src/atm.c -o atm.exe
    - `5` — Exit
 4. The session automatically ends after five successful deposits/withdrawals.
 
+   ## Project Visuals
+
+### 1. ATM Simulation Flowchart
+
+The flowchart represents the complete working logic of the ATM system.
+
+![ATM Simulation Flowchart](3b2245ce-f8b5-45fa-b9c3-6d1f8c1c7339.png)
+
+### 2. Project Screenshot
+
+The screenshot shows the ATM Simulation project uploaded to GitHub.
+
+![ATM Project Screenshot](Screenshot%202026-11-03%20145909.png)
+
 **Note:** Balance enquiries and mini-statement views do not count toward the five-transaction limit. The balance and transaction history are stored in memory and reset when the program is restarted. This is an educational simulation, not a real banking application.
 
 ## C concepts demonstrated
