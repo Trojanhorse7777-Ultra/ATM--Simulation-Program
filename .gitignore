@@ -1,0 +1,15 @@
+# Compiled binaries
+atm
+atm.exe
+*.o
+*.out
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
